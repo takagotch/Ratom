@@ -121,3 +121,4 @@ entry.destroy!(:user => 'username', :pass => 'password')
 ```
 
 
+
